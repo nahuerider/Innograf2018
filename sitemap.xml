@@ -2,12 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.innografdiseno.com.ar/index.html</loc>
-    <lastmod>2017-12-23</lastmod>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/eee.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/mac_poster_.png</image:loc>
     </image:image>
@@ -36,10 +33,10 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u681.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio4-crop-u707.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/29314834_1990938134566865_1765184425684893696_n.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u733.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/28276399_1977293315931347_4237101453572647313_n.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio6-crop-u759.jpg</image:loc>
@@ -63,10 +60,10 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u689.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio4320x320.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/29314834_1990938134566865_1765184425684893696_n320x320.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u741.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/28276399_1977293315931347_4237101453572647313_n320x320.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio6320x320.jpg</image:loc>
@@ -81,19 +78,22 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio9320x320.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/telefono.svg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/indicador.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/icons8-networking-manager-100.png</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/streaming-de-carga-en-la-pantalla-del-ordenador-portatil.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/eee.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/smartphone-call.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6812.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio4-crop-u7072.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u7332.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio6-crop-u7592.jpg</image:loc>
@@ -111,25 +111,16 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6892.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u7412.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8192.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6813.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio4546x546.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio6-crop-u7593.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio6546x546.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio7546x546.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio7-crop-u7853.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio9-crop-u8373.jpg</image:loc>
@@ -138,16 +129,37 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio-crop-u5103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio2300x300.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6893.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio4300x300.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8193.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u7413.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio6546x546.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio7546x546.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio9-crop-u8374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio-crop-u5104.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio2300x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6894.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/29314834_1990938134566865_1765184425684893696_n300x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.innografdiseno.com.ar/images/28276399_1977293315931347_4237101453572647313_n300x300.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio6300x300.jpg</image:loc>
@@ -156,7 +168,7 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio7300x300.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8193.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8194.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio9300x300.jpg</image:loc>
@@ -168,13 +180,7 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio2390x390.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6813.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio4390x390.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u7333.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6814.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio6390x390.jpg</image:loc>
@@ -189,19 +195,19 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio9520x520.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio-crop-u5104.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio-crop-u5105.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio2270x270.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6894.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6895.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio4270x270.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/29314834_1990938134566865_1765184425684893696_n270x270.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u7414.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/28276399_1977293315931347_4237101453572647313_n270x270.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio6270x270.jpg</image:loc>
@@ -210,7 +216,7 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio7270x270.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8194.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8195.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio9270x270.jpg</image:loc>
@@ -222,13 +228,13 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio2354x354.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6814.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6815.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio4354x354.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/29314834_1990938134566865_1765184425684893696_n398x398.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u7334.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/28276399_1977293315931347_4237101453572647313_n398x398.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio6354x354.jpg</image:loc>
@@ -240,19 +246,16 @@
       <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8112.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio9472x473.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio9472x472.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio-crop-u5105.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio-crop-u5106.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6895.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio3-crop-u6896.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio5-crop-u7415.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8195.jpg</image:loc>
+      <image:loc>http://www.innografdiseno.com.ar/images/portfolio8-crop-u8196.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
